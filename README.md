@@ -48,3 +48,6 @@ uses windows BATCH file to build static html for file list of the current folder
     pause
 
    
+
+### the simple static html link, clickable for the local drive and easy your browser  
+![static_html.JPG](static_html.JPG)  
